@@ -1,7 +1,7 @@
 {
   "name": "clis",
   "version": "1.0.0",
-  "description": "A collection of CLI utilities",
+  "description": "CLI utilities",
   "main": "index.js",
   "bin": {
     "cli-echo": "./echo.js"
